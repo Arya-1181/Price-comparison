@@ -1,7 +1,5 @@
 # Ask The Expert - Price Comparison Tool
 
-![Project Logo](/path/to/your/logo.png)
-
 Ask The Expert is a web-based price comparison tool that allows users to easily compare prices of a specific item across different websites. This tool helps users make informed purchasing decisions by providing them with a quick overview of prices from various online retailers.
 
 ## Table of Contents
