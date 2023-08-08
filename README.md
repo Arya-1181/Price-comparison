@@ -19,10 +19,6 @@ Ask The Expert is a web-based price comparison tool that allows users to easily 
 - **Customizable:** Users can customize their search to include specific websites or product categories.
 - **Responsive Design:** The tool is responsive and works well on various devices, including desktops, tablets, and smartphones.
 
-## Demo
-
-Include screenshots, GIFs, or a link to a live demo of your project here.
-
 ## Installation
 
 1. Clone the repository
